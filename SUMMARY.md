@@ -1,5 +1,5 @@
 # Table of contents
 
-* [iOS 开发规范](README.md)
+* [iOS 架构学习](README.md)
 * [Untitled](untitled-1.md)
 
