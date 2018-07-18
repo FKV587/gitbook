@@ -1,8 +1,8 @@
 ---
-description: 付凯
+description: '本文连接地址https://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html'
 ---
 
-# iOS 架构学习
+# iOS 架构学习第一步 了解 架构
 
 ## 缘由
 
